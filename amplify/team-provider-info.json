@@ -10,6 +10,14 @@
       "StackName": "amplify-webtranslate-dev-112634",
       "StackId": "arn:aws:cloudformation:us-east-1:221262183359:stack/amplify-webtranslate-dev-112634/e690b260-3055-11ee-a662-125bd53fa243",
       "AmplifyAppId": "d5dfguyen746h"
+    },
+    "categories": {
+      "auth": {
+        "webtranslate9ca616e3": {}
+      },
+      "predictions": {
+        "speechGenerator008b9c4a": {}
+      }
     }
   }
 }
