@@ -16,7 +16,8 @@
         "webtranslate9ca616e3": {}
       },
       "predictions": {
-        "speechGenerator008b9c4a": {}
+        "speechGenerator008b9c4a": {},
+        "transcription8af94914": {}
       }
     }
   }

@@ -30,6 +30,11 @@
       "convertType": "speechGenerator",
       "providerPlugin": "awscloudformation",
       "service": "Polly"
+    },
+    "transcription8af94914": {
+      "convertType": "transcription",
+      "providerPlugin": "awscloudformation",
+      "service": "Transcribe"
     }
   }
 }
